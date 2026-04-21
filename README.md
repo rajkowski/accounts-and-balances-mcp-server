@@ -4,7 +4,7 @@
 <img src="https://github.com/rajkowski/accounts-and-balances/blob/main/docs/assets/accounts-and-balances-app-icon.png" alt="Accounts and Balances App Icon" width="100" height="100">
 </p>
 
-[View Accounts and Balances on the App Store for macOS](https://apps.apple.com/us/app/accounts-balances/id6746949741) - the personal finance application required for this MCP server.
+[Download Accounts and Balances on the App Store for macOS](https://apps.apple.com/us/app/accounts-balances/id6746949741) - the personal finance application required for this MCP server.
 
 A read-only [Model Context Protocol](https://modelcontextprotocol.io) server
 that lets desktop LLMs (or any MCP client) query your personal finance data
